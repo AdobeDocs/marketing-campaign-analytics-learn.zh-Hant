@@ -1,17 +1,17 @@
 ---
 cloud: Experience Cloud
-solution: Mix Modeler
-product_v2:
-  - id: b88c80e3-31df-4609-989d-d4dac0e6d973
-    internal-label: "Mix Modeler"
+solution: Marketing Campaign Analytics
 usetq: true
 landing-page-name: mix-modeler
-landing-page-breadcrumb-title: Mix Modeler
+landing-page-breadcrumb-title: Marketing Campaign Analytics
 type: Tutorial
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/mix-modeler-learn.zh-Hant
+git-repo: https://github.com/AdobeDocs/marketing-campaign-analytics-learn.en
 index: true
-source-git-commit: 610c6830109ec7f92793ccf420fea707c8a7c1cf
+product_v2:
+  - id: b88c80e3-31df-4609-989d-d4dac0e6d973
+    internal-label: Marketing Campaign Analytics
+source-git-commit: c1be88f3308cb6408614cee94a3646cad10fe8a4
 workflow-type: tm+mt
 source-wordcount: '64'
 ht-degree: 100%
