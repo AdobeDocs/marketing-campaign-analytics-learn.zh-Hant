@@ -6,7 +6,7 @@ landing-page-name: marketing-campaign-analytics
 landing-page-breadcrumb-title: Marketing Campaign Analytics
 type: Tutorial
 mini-toc-levels: 2
-git-repo: https://github.com/AdobeDocs/marketing-campaign-analytics-learn.en
+git-repo: https://github.com/AdobeDocs/marketing-campaign-analytics-learn.zh-Hant
 index: true
 product_v2:
   - id: b88c80e3-31df-4609-989d-d4dac0e6d973
