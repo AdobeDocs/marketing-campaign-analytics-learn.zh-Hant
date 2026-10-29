@@ -1,6 +1,6 @@
 ---
 title: 使用者介面導覽
-description: 在使用者介面中查看 Mix Modeler 主要功能。
+description: 請參閱使用者介面中的Marketing Campaign Analytics主要功能。
 role: Admin, Developer, Leader, User
 level: Beginner
 doc-type: Value Video
@@ -8,17 +8,17 @@ last-substantial-update: 2023-10-11T00:00:00.000Z
 jira: KT-14137
 thumbnail: 3424851.jpeg
 exl-id: a5bae676-2af6-42aa-9cea-49019bf34734
-TQID: 'https://experienceleague.adobe.com/68YgiCIwz-u-m-xZzH-MQv5Mmw2u90Ycb81MGmt-RYo'
+TQID: 'https://experienceleague.adobe.com/-jdetlFL9dgINVYUHtNAFVEH0QjQRg-NFwg4g3ZZdV0'
 product_v2:
   - id: b88c80e3-31df-4609-989d-d4dac0e6d973
-    internal-label: Mix Modeler
+    internal-label: Marketing Campaign Analytics
 feature_v2:
+  - id: a567f0f7-0057-4079-8ded-5b24cc25af15
+    internal-label: Harmonized data
   - id: e0abf868-dae2-4c1c-83e9-b21799232845
     internal-label: Datasets
   - id: f40f1683-8300-4054-aab8-77da06ad63ff
     internal-label: Models
-  - id: a567f0f7-0057-4079-8ded-5b24cc25af15
-    internal-label: Harmonized data
 subfeature_v2:
   - id: a9505d76-24a1-4ffe-bd01-6ac32d5af453
     internal-label: Model insights
@@ -51,13 +51,19 @@ topic_v2:
     internal-label: Insights
   - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
     internal-label: Taxonomy
-source-git-commit: 9d05b49487b1c920327241c1147a4c72cb9d69b8
+source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
 workflow-type: tm+mt
-source-wordcount: '47'
-ht-degree: 46%
+source-wordcount: '81'
+ht-degree: 0%
 ---
 # 使用者介面導覽
 
-在使用者介面中查看 Mix Modeler 主要功能。 如需其他資訊，請參閱[Adobe Mix Modeler指南](https://experienceleague.adobe.com/zh-hant/docs/mix-modeler/using/get-started/workflow)。
+>[!BEGINSHADEBOX]
 
->[!VIDEO](https://video.tv.adobe.com/v/3452393?captions=chi_hant&learn=on&enablevpops)
+**Adobe Marketing Campaign Analytics**&#x200B;是&#x200B;**Adobe Marketing Campaign Analytics**&#x200B;的演化與品牌重塑。 有些Experience League內容可能仍會參考Mix Modeler，而非Marketing Campaign Analytics。
+
+>[!ENDSHADEBOX]
+
+請參閱使用者介面中的Marketing Campaign Analytics主要功能。 如需其他資訊，請參閱[Adobe Marketing Campaign Analytics指南](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow)。
+
+>[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)
