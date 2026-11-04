@@ -38,6 +38,6 @@ ht-degree: 0%
 
 >[!ENDSHADEBOX]
 
-透過Marketing Campaign Analytics中的目標型規劃功能，您可以根據業務目標進行規劃，而不只是根據預算。 您可以放心地跨管道和行銷活動有效率地分配預算，以最大的投資報酬率達成您的目標。 如需詳細資訊，請參閱Marketing Campaign Analytics檔案中的[計畫](https://experienceleague.adobe.com/en/docs/mix-modeler/using/plans/overview){target="_blank"}。
+透過Marketing Campaign Analytics中的目標型規劃功能，您可以根據業務目標進行規劃，而不只是根據預算。 您可以放心地跨管道和行銷活動有效率地分配預算，以最大的投資報酬率達成您的目標。 如需詳細資訊，請參閱Marketing Campaign Analytics檔案中的[計畫](https://experienceleague.adobe.com/zh-hant/docs/mix-modeler/using/plans/overview){target="_blank"}。
 
 >[!SLIDE](goal-based-planning)
