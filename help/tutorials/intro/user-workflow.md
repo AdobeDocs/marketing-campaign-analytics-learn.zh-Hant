@@ -34,16 +34,16 @@ topic_v2:
     internal-label: Optimization
   - id: e1e0219c-f879-479f-8427-888ed2a6e9c2
     internal-label: Insights
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '69'
+source-wordcount: '68'
 ht-degree: 0%
 ---
 # 使用者工作流程
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics**&#x200B;是&#x200B;**Adobe Marketing Campaign Analytics**&#x200B;的演化與品牌重塑。 有些Experience League內容可能仍會參考Mix Modeler，而非Marketing Campaign Analytics。
+**Adobe Marketing Campaign Analytics**&#x200B;是&#x200B;**Adobe Mix Modeler**&#x200B;的演化與品牌重塑。 有些Experience League內容可能仍會參考Mix Modeler，而非Marketing Campaign Analytics。
 
 >[!ENDSHADEBOX]
 
