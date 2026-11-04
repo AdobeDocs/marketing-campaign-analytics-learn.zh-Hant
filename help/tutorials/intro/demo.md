@@ -70,4 +70,4 @@ ht-degree: 9%
 
 請參閱Adobe Marketing Campaign Analytics的端對端示範。 如需其他資訊，請參閱[Marketing Campaign Analytics檔案](https://experienceleague.adobe.com/zh-hant/docs/mix-modeler/using/overview)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3440805/?captions=chi_hant&learn=on&enablevpops)
