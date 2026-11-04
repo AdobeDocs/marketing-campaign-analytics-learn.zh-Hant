@@ -51,19 +51,19 @@ topic_v2:
     internal-label: Insights
   - id: f8667931-f646-4dd3-af2a-b9d0cb8098ad
     internal-label: Taxonomy
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '81'
+source-wordcount: '80'
 ht-degree: 0%
 ---
 # 使用者介面導覽
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics**&#x200B;是&#x200B;**Adobe Marketing Campaign Analytics**&#x200B;的演化與品牌重塑。 有些Experience League內容可能仍會參考Mix Modeler，而非Marketing Campaign Analytics。
+**Adobe Marketing Campaign Analytics**&#x200B;是&#x200B;**Adobe Mix Modeler**&#x200B;的演化與品牌重塑。 有些Experience League內容可能仍會參考Mix Modeler，而非Marketing Campaign Analytics。
 
 >[!ENDSHADEBOX]
 
-請參閱使用者介面中的Marketing Campaign Analytics主要功能。 如需其他資訊，請參閱[Adobe Marketing Campaign Analytics指南](https://experienceleague.adobe.com/zh-hant/docs/mix-modeler/using/get-started/workflow)。
+請參閱使用者介面中的Marketing Campaign Analytics主要功能。 如需其他資訊，請參閱[Adobe Marketing Campaign Analytics指南](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow)。
 
->[!VIDEO](https://video.tv.adobe.com/v/3452393?captions=chi_hant&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)

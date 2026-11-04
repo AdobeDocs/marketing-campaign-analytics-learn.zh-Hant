@@ -16,16 +16,16 @@ topic_v2:
     internal-label: Insights
   - id: eb30f47f-d87a-400f-8f78-63ce7979ff56
     internal-label: Machine learning
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '184'
+source-wordcount: '183'
 ht-degree: 1%
 ---
 # Marketing Campaign Analytics教學課程
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics**&#x200B;是&#x200B;**Adobe Marketing Campaign Analytics**&#x200B;的演化與品牌重塑。 有些Experience League內容可能仍會參考Mix Modeler，而非Marketing Campaign Analytics。
+**Adobe Marketing Campaign Analytics**&#x200B;是&#x200B;**Adobe Mix Modeler**&#x200B;的演化與品牌重塑。 有些Experience League內容可能仍會參考Mix Modeler，而非Marketing Campaign Analytics。
 
 >[!ENDSHADEBOX]
 
@@ -48,7 +48,7 @@ Adobe Marketing Campaign Analytics可協助組織透過套用機器學習模型�
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="「端對端示範」教學課程的縮圖影像" src="https://video.tv.adobe.com/v/3440805?captions=chi_hant&format=jpeg" />
+      <img alt="「端對端示範」教學課程的縮圖影像" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -61,7 +61,7 @@ Adobe Marketing Campaign Analytics可協助組織透過套用機器學習模型�
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="「使用者介面導覽」影片的影像縮圖" src="https://video.tv.adobe.com/v/3452393?captions=chi_hant&format=jpeg" />
+      <img alt="「使用者介面導覽」影片的影像縮圖" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -74,7 +74,7 @@ Adobe Marketing Campaign Analytics可協助組織透過套用機器學習模型�
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="「使用者工作流程」教學課程的縮圖影像" src="https://video.tv.adobe.com/v/3440218?captions=chi_hant&format=jpeg" />
+      <img alt="「使用者工作流程」教學課程的縮圖影像" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
     </a>
     <div>
       <a href="intro/user-workflow.md">

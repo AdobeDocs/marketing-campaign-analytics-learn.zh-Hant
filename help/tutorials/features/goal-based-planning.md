@@ -25,19 +25,19 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 9204bd8bbe86d179f4059b292de137b34933b6db
+source-git-commit: d48aefc7040e9ad22f86c87326bceddc09113e67
 workflow-type: tm+mt
-source-wordcount: '109'
+source-wordcount: '108'
 ht-degree: 0%
 ---
 # 目標型規劃
 
 >[!BEGINSHADEBOX]
 
-**Adobe Marketing Campaign Analytics**&#x200B;是&#x200B;**Adobe Marketing Campaign Analytics**&#x200B;的演化與品牌重塑。 有些Experience League內容可能仍會參考Mix Modeler，而非Marketing Campaign Analytics。
+**Adobe Marketing Campaign Analytics**&#x200B;是&#x200B;**Adobe Mix Modeler**&#x200B;的演化與品牌重塑。 有些Experience League內容可能仍會參考Mix Modeler，而非Marketing Campaign Analytics。
 
 >[!ENDSHADEBOX]
 
-透過Marketing Campaign Analytics中的目標型規劃功能，您可以根據業務目標進行規劃，而不只是根據預算。 您可以放心地跨管道和行銷活動有效率地分配預算，以最大的投資報酬率達成您的目標。 如需詳細資訊，請參閱Marketing Campaign Analytics檔案中的[計畫](https://experienceleague.adobe.com/zh-hant/docs/mix-modeler/using/plans/overview){target="_blank"}。
+透過Marketing Campaign Analytics中的目標型規劃功能，您可以根據業務目標進行規劃，而不只是根據預算。 您可以放心地跨管道和行銷活動有效率地分配預算，以最大的投資報酬率達成您的目標。 如需詳細資訊，請參閱Marketing Campaign Analytics檔案中的[計畫](https://experienceleague.adobe.com/en/docs/mix-modeler/using/plans/overview){target="_blank"}。
 
 >[!SLIDE](goal-based-planning)
