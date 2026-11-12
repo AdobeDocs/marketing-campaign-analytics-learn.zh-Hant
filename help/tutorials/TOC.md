@@ -5,7 +5,8 @@ user-guide-description: Adobe Marketing Campaign Analytics的影片和教學課�
 audience: all
 doc-type: video
 auto-video-transcripts: true
-source-git-commit: 86c8d3b8ccdeb5bf0c3d8c4c4ba0a000060a2206
+nudge: true
+source-git-commit: 302336b01638c4bf4b651bed9c64ec6eaca6ad3f
 workflow-type: tm+mt
 source-wordcount: '49'
 ht-degree: 2%
